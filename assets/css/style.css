@@ -1140,7 +1140,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 110px;
   height: 110px;
   border-radius: 50%;
-  background: rgba(48, 148, 39, 0.08);
+  background: rgba(54, 174, 43, 0.645);
   border: 2px solid rgba(48, 148, 39, 0.2);
   display: flex;
   align-items: center;
@@ -1150,7 +1150,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .service-card:hover .service-icon-wrapper {
-  background: rgba(48, 148, 39, 0.16);
+  background: rgba(64, 195, 24, 0.512);
   border-color: var(--color-primary);
   box-shadow: 0 0 25px rgba(48, 148, 39, 0.25);
   transform: scale(1.06);
