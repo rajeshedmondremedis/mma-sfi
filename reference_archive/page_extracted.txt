@@ -1,0 +1,278 @@
+=================== HEADER ===================
+TEXT: data-elementor-id="104" class="elementor elementor-104">
+LINK: <a href="https://mma-sfi.org/home/">
+IMG: <img fetchpriority="high" width="500" height="500" src="https://mma-sfi.org/wp-content/uploads/2025/05/logo-black.webp" class="attachment-full size-full wp-image-1612" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2025/05/logo-black.webp 500w, https://mma-sfi.org/wp-content/uploads/2025/05/logo-black-300x300.webp 300w, https://mma-sfi.org/wp-content/uploads/2025/05/logo-black-150x150.webp 150w" sizes="(max-width: 500px) 100vw, 500px" />
+ICON/CLASS: <nav class="ekit-wid-con ekit_menu_responsive_tablet"
+			aria-label="Primary Menu"
+			data-hamburger-icon=""
+			data-ham
+ICON/CLASS: <span class="elementskit-menu-hamburger-icon">
+ICON/CLASS: <span class="elementskit-menu-hamburger-icon">
+ICON/CLASS: <span class="elementskit-menu-hamburger-icon">
+ICON/CLASS: <ul id="menu-primary-menu" class="elementskit-navbar-nav elementskit-menu-po-center submenu-click-on-icon">
+LINK: <a href="https://mma-sfi.org/" class="ekit-menu-nav-link active">
+TEXT: Home
+LINK: <a href="https://mma-sfi.org/about-us/" class="ekit-menu-nav-link">
+TEXT: About Us
+LINK: <a href="https://mma-sfi.org/news/" class="ekit-menu-nav-link">
+TEXT: News
+LINK: <a href="https://mma-sfi.org/events/" class="ekit-menu-nav-link">
+TEXT: Events
+LINK: <a href="https://mma-sfi.org/event-sanctioning/" class="ekit-menu-nav-link">
+TEXT: Event Sanctioning
+LINK: <a href="#" class="ekit-menu-nav-link ekit-menu-dropdown-toggle" aria-haspopup="true" aria-expanded="false" aria-controls="ekit-submenu-127">
+TEXT: Integrity
+ICON/CLASS: <i aria-hidden="true" class="icon icon-plus elementskit-submenu-indicator">
+LINK: <a href="https://mma-sfi.org/anti-doping-policy-mma-sfi/" class=" dropdown-item">
+TEXT: Anti-Doping
+LINK: <a href="https://mma-sfi.org/safeguarding/" class=" dropdown-item">
+TEXT: Safeguarding
+LINK: <a href="https://mma-sfi.org/members-state/" class="ekit-menu-nav-link">
+TEXT: Members (State)
+LINK: <a href="https://mma-sfi.org/team/" class="ekit-menu-nav-link">
+TEXT: Team
+LINK: <a href="https://mma-sfi.org/contact-us/" class="ekit-menu-nav-link">
+TEXT: Contact us
+LINK: <a class="elementskit-nav-logo" href="https://mma-sfi.org" target="" rel="">
+IMG: <img src="https://unwwind.com/new/mma-sfi/wp-content/uploads/2025/05/cropped-Newl-logo.png" title="cropped-Newl-logo.png" alt="cropped-Newl-logo.png" decoding="async" />
+TEXT: X
+LINK: <a href="https://mma-sfi.org/home/">
+IMG: <img fetchpriority="high" width="500" height="500" src="https://mma-sfi.org/wp-content/uploads/2025/05/logo-black.webp" class="attachment-full size-full wp-image-1612" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2025/05/logo-black.webp 500w, https://mma-sfi.org/wp-content/uploads/2025/05/logo-black-300x300.webp 300w, https://mma-sfi.org/wp-content/uploads/2025/05/logo-black-150x150.webp 150w" sizes="(max-width: 500px) 100vw, 500px" />
+ICON/CLASS: <nav class="ekit-wid-con ekit_menu_responsive_tablet"
+			aria-label="Primary Menu"
+			data-hamburger-icon=""
+			data-ham
+ICON/CLASS: <span class="elementskit-menu-hamburger-icon">
+ICON/CLASS: <span class="elementskit-menu-hamburger-icon">
+ICON/CLASS: <span class="elementskit-menu-hamburger-icon">
+ICON/CLASS: <ul id="menu-primary-menu-1" class="elementskit-navbar-nav elementskit-menu-po-center submenu-click-on-icon">
+LINK: <a href="https://mma-sfi.org/" class="ekit-menu-nav-link active">
+TEXT: Home
+LINK: <a href="https://mma-sfi.org/about-us/" class="ekit-menu-nav-link">
+TEXT: About Us
+LINK: <a href="https://mma-sfi.org/news/" class="ekit-menu-nav-link">
+TEXT: News
+LINK: <a href="https://mma-sfi.org/events/" class="ekit-menu-nav-link">
+TEXT: Events
+LINK: <a href="https://mma-sfi.org/event-sanctioning/" class="ekit-menu-nav-link">
+TEXT: Event Sanctioning
+LINK: <a href="#" class="ekit-menu-nav-link ekit-menu-dropdown-toggle" aria-haspopup="true" aria-expanded="false" aria-controls="ekit-submenu-127">
+TEXT: Integrity
+ICON/CLASS: <i aria-hidden="true" class="icon icon-plus elementskit-submenu-indicator">
+LINK: <a href="https://mma-sfi.org/anti-doping-policy-mma-sfi/" class=" dropdown-item">
+TEXT: Anti-Doping
+LINK: <a href="https://mma-sfi.org/safeguarding/" class=" dropdown-item">
+TEXT: Safeguarding
+LINK: <a href="https://mma-sfi.org/members-state/" class="ekit-menu-nav-link">
+TEXT: Members (State)
+LINK: <a href="https://mma-sfi.org/team/" class="ekit-menu-nav-link">
+TEXT: Team
+LINK: <a href="https://mma-sfi.org/contact-us/" class="ekit-menu-nav-link">
+TEXT: Contact us
+LINK: <a class="elementskit-nav-logo" href="https://mma-sfi.org" target="" rel="">
+IMG: <img src="https://mma-sfi.org/wp-content/uploads/2025/05/logo-black.webp" title="logo black" alt="logo black" decoding="async" />
+TEXT: X
+TEXT: div data-elementor-type="wp-page"
+
+=================== PAGE BODY ===================
+TEXT: data-elementor-id="114" class="elementor elementor-114">
+TEXT: .elementor-1686 .elementor-element.elementor-element-54296030{--display:flex;}.elementor-1686 .elementor-element.elementor-element-54296030.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-1686 .elementor-element.elementor-element-0dfe14a{--e-image-carousel-slides-to-show:1;}.elementor-1686 .elementor-element.elementor-element-e027aeb{--e-image-carousel-slides-to-show:1;}.elementor-1686 .elementor-element.elementor-element-e027aeb > .elementor-widget-container{margin:60px 0px 0px 0px;}@media(max-width:767px){.elementor-1686 .elementor-element.elementor-element-22ad226 > .elementor-widget-container{margin:081px 0px 0px 0px;}}@media(min-width:768px){.elementor-1686 .elementor-element.elementor-element-54296030{--width:101.774%;}}
+IMG: <img decoding="async" width="1366" height="768" src="https://mma-sfi.org/wp-content/uploads/2025/11/Website-banner.png" class="attachment-full size-full wp-image-2069" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2025/11/Website-banner.png 1366w, https://mma-sfi.org/wp-content/uploads/2025/11/Website-banner-300x169.png 300w, https://mma-sfi.org/wp-content/uploads/2025/11/Website-banner-1024x576.png 1024w, https://mma-sfi.org/wp-content/uploads/2025/11/Website-banner-768x432.png 768w" sizes="(max-width: 1366px) 100vw, 1366px" />
+IMG: <img decoding="async" class="swiper-slide-image" src="https://mma-sfi.org/wp-content/uploads/2026/11/made.png" alt="made" />
+IMG: <img decoding="async" class="swiper-slide-image" src="https://mma-sfi.org/wp-content/uploads/2026/11/made-2.jpg" alt="made - 2" />
+TEXT: Training Hours
+COUNTER: <div class="odometer-container">
+TEXT: +
+COUNTER: <div class="odometer counter" data-config="{&quot;start_number&quot;:100,&quot;end_number&quot;:9999,&quot;duration&quot;:1000,&quot;format&quot;:&quot;(,ddd)&quot;}">
+TEXT: 100
+TEXT: K
+TEXT: Trusted Client
+TEXT: Student Success Rate
+COUNTER: <div class="odometer-container">
+TEXT: +
+COUNTER: <div class="odometer counter" data-config="{&quot;start_number&quot;:100,&quot;end_number&quot;:9999,&quot;duration&quot;:1000,&quot;format&quot;:&quot;(,ddd)&quot;}">
+TEXT: 100
+TEXT: K
+TEXT: Trusted Client
+TEXT: Certified Instructors
+COUNTER: <div class="odometer-container">
+TEXT: +
+COUNTER: <div class="odometer counter" data-config="{&quot;start_number&quot;:100,&quot;end_number&quot;:9999,&quot;duration&quot;:1000,&quot;format&quot;:&quot;(,ddd)&quot;}">
+TEXT: 100
+TEXT: K
+TEXT: Trusted Client
+TEXT: OFFICIAL ANNOUNCEMENT: AFFILIATION CANCELLED | Mixed Martial Arts Sports Association of Jammu &amp; Kashmir (MMASAJK) is no longer affiliated with the Mixed Martial Arts Sports Federation of India (MMA-SFI).
+TEXT: About Us
+TEXT: Who We Are
+TEXT: Your Triumph.
+TEXT: MMA-SFI (Mixed Martial Arts Sports Federation of India) is the national governing body for MMA in India. We are committed to building a transparent, athlete-first structure that supports Indian fighters from the grassroots to the global stage.
+TEXT: Vision
+TEXT: Our vision is to build a strong, structured future for Indian MMA - where fighters from every
+background get the opportunity, resources and recognition they deserve.
+TEXT: Mission
+TEXT: MMA-SFI is committed to developing a strong, transparent, and athlete-focused structure for
+Mixed Martial Arts in India.
+We aim to uplift Indian fighters by setting national standards,
+TEXT: Core Objectives of MMA-SFI
+TEXT: 1. Talent Development
+TEXT: 2. Standardised Coaching &amp; Officiating
+TEXT: 3.Structured Competitions
+TEXT: President's Message
+TEXT: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+LINK: <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="/about-us/">
+TEXT: Read More
+IMG: <img decoding="async" width="650" height="719" src="https://mma-sfi.org/wp-content/uploads/2025/06/Home-page.png" class="attachment-full size-full wp-image-888" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2025/06/Home-page.png 650w, https://mma-sfi.org/wp-content/uploads/2025/06/Home-page-271x300.png 271w" sizes="(max-width: 650px) 100vw, 650px" />
+TEXT: Affiliations
+TEXT: FIMA - Federation of International Mixed Martial Arts
+IMG: <img loading="lazy" decoding="async" width="1754" height="1164" src="https://mma-sfi.org/wp-content/uploads/2026/08/FIMA-Membership-certificate-1.jpg" class="attachment-full size-full wp-image-2127" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2026/08/FIMA-Membership-certificate-1.jpg 1754w, https://mma-sfi.org/wp-content/uploads/2026/08/FIMA-Membership-certificate-1-300x199.jpg 300w, https://mma-sfi.org/wp-content/uploads/2026/08/FIMA-Membership-certificate-1-1024x680.jpg 1024w, https://mma-sfi.org/wp-content/uploads/2026/08/FIMA-Membership-certificate-1-768x510.jpg 768w, https://mma-sfi.org/wp-content/uploads/2026/08/FIMA-Membership-certificate-1-1536x1019.jpg 1536w" sizes="(max-width: 1754px) 100vw, 1754px" />
+TEXT: GAMMA - Global Association of Mixed Martial Arts
+IMG: <img loading="lazy" decoding="async" width="1754" height="1241" src="https://mma-sfi.org/wp-content/uploads/2025/06/GAMMA_Certificate_Full_Membership_India_page-0001.jpg" class="attachment-full size-full wp-image-760" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2025/06/GAMMA_Certificate_Full_Membership_India_page-0001.jpg 1754w, https://mma-sfi.org/wp-content/uploads/2025/06/GAMMA_Certificate_Full_Membership_India_page-0001-300x212.jpg 300w, https://mma-sfi.org/wp-content/uploads/2025/06/GAMMA_Certificate_Full_Membership_India_page-0001-1024x725.jpg 1024w, https://mma-sfi.org/wp-content/uploads/2025/06/GAMMA_Certificate_Full_Membership_India_page-0001-768x543.jpg 768w, https://mma-sfi.org/wp-content/uploads/2025/06/GAMMA_Certificate_Full_Membership_India_page-0001-1536x1087.jpg 1536w" sizes="(max-width: 1754px) 100vw, 1754px" />
+TEXT: AMMA - Asian Mixed Martial Arts Association
+IMG: <img loading="lazy" decoding="async" width="1264" height="894" src="https://mma-sfi.org/wp-content/uploads/2025/06/MMASFI-AMMA-AFFILIATION-CERTIFICATE-_page-0001.jpg" class="attachment-full size-full wp-image-759" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2025/06/MMASFI-AMMA-AFFILIATION-CERTIFICATE-_page-0001.jpg 1264w, https://mma-sfi.org/wp-content/uploads/2025/06/MMASFI-AMMA-AFFILIATION-CERTIFICATE-_page-0001-300x212.jpg 300w, https://mma-sfi.org/wp-content/uploads/2025/06/MMASFI-AMMA-AFFILIATION-CERTIFICATE-_page-0001-1024x724.jpg 1024w, https://mma-sfi.org/wp-content/uploads/2025/06/MMASFI-AMMA-AFFILIATION-CERTIFICATE-_page-0001-768x543.jpg 768w" sizes="(max-width: 1264px) 100vw, 1264px" />
+TEXT: Our Services
+TEXT: Precision Punches
+TEXT: Mastery Unleashed
+TEXT: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+LINK: <a href="/anti-doping-policy-mma-sfi/" tabindex="-1">
+IMG: <img loading="lazy" decoding="async" width="300" height="300" src="https://mma-sfi.org/wp-content/uploads/2025/05/Fundamental-Boxing.gif" class="attachment-full size-full wp-image-21" alt="" />
+LINK: <a href="/anti-doping-policy-mma-sfi/">
+TEXT: Integrity
+LINK: <a href="/about-us/" tabindex="-1">
+IMG: <img loading="lazy" decoding="async" width="300" height="300" src="https://mma-sfi.org/wp-content/uploads/2025/05/Personal-Training.gif" class="attachment-full size-full wp-image-27" alt="" />
+LINK: <a href="/about-us/">
+TEXT: Affiliations
+LINK: <a href="/build-mma-in-your-state-with-mma-sfi/" tabindex="-1">
+IMG: <img loading="lazy" decoding="async" width="300" height="300" src="https://mma-sfi.org/wp-content/uploads/2025/05/Striking.gif" class="attachment-full size-full wp-image-23" alt="" />
+LINK: <a href="/build-mma-in-your-state-with-mma-sfi/">
+TEXT: Federations
+TEXT: News
+TEXT: In the News
+TEXT: Team India Trials for the 6th Asian Indoor and Martial Arts Games Riyadh 2026
+TEXT: The Mixed Martial Arts Sports Federation of India (MMA-SFI) announces the 4th round of National Selection Trials for athletes seeking selection to represent India at the 6th Asian Indoor and Martial Arts Games, Riyadh 2026.
+LINK: <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="https://mma-sfi.org/team-india-trials-for-the-6th-asian-indoor-and-martial-arts-games-riyadh-2026/">
+TEXT: Read More!
+IMG: <img loading="lazy" decoding="async" width="1920" height="1281" src="https://mma-sfi.org/wp-content/uploads/2026/03/IMG_6822.jpg" class="attachment-full size-full wp-image-1921" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2026/03/IMG_6822.jpg 1920w, https://mma-sfi.org/wp-content/uploads/2026/03/IMG_6822-300x200.jpg 300w, https://mma-sfi.org/wp-content/uploads/2026/03/IMG_6822-1024x683.jpg 1024w, https://mma-sfi.org/wp-content/uploads/2026/03/IMG_6822-768x512.jpg 768w, https://mma-sfi.org/wp-content/uploads/2026/03/IMG_6822-1536x1025.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />
+TEXT: Team India shines at the 3rd Asian MMA Championship in Luzhou, China.
+TEXT: The Mixed Martial Arts Sports Federation of India (MMA-SFI) proudly celebrates a strong performance by Team....
+LINK: <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="https://mma-sfi.org/team-india-shines-at-the-3rd-asian-mma-championship-in-luzhou-china/">
+TEXT: Read More!
+IMG: <img loading="lazy" decoding="async" width="2560" height="1779" src="https://mma-sfi.org/wp-content/uploads/2026/03/5DB6798A-17E8-478A-A2EE-EC40E68977AA-scaled.jpg" class="attachment-full size-full wp-image-1906" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2026/03/5DB6798A-17E8-478A-A2EE-EC40E68977AA-scaled.jpg 2560w, https://mma-sfi.org/wp-content/uploads/2026/03/5DB6798A-17E8-478A-A2EE-EC40E68977AA-300x209.jpg 300w, https://mma-sfi.org/wp-content/uploads/2026/03/5DB6798A-17E8-478A-A2EE-EC40E68977AA-1024x712.jpg 1024w, https://mma-sfi.org/wp-content/uploads/2026/03/5DB6798A-17E8-478A-A2EE-EC40E68977AA-768x534.jpg 768w, https://mma-sfi.org/wp-content/uploads/2026/03/5DB6798A-17E8-478A-A2EE-EC40E68977AA-1536x1068.jpg 1536w, https://mma-sfi.org/wp-content/uploads/2026/03/5DB6798A-17E8-478A-A2EE-EC40E68977AA-2048x1424.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />
+TEXT: National Selection Trials in Mumbai select Team India for the 3rd Asian MMA Championship
+TEXT: The Mixed Martial Arts Sports Federation of India conducted the second round of National Selection Trials in Mumbai from 29 to 30 January....
+LINK: <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="https://mma-sfi.org/national-selection-trials-in-mumbai-select-team-india-for-the-3rd-asian-mma-championship/">
+TEXT: Read More!
+IMG: <img loading="lazy" decoding="async" width="900" height="600" src="https://mma-sfi.org/wp-content/uploads/2025/11/asian-games-mma-42.webp" class="attachment-full size-full wp-image-1658" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2025/11/asian-games-mma-42.webp 900w, https://mma-sfi.org/wp-content/uploads/2025/11/asian-games-mma-42-300x200.webp 300w, https://mma-sfi.org/wp-content/uploads/2025/11/asian-games-mma-42-768x512.webp 768w" sizes="(max-width: 900px) 100vw, 900px" />
+TEXT: India Shines in MMA at the 3rd Asian Youth Games
+TEXT: India Shines in MMA at the 3rd Asian Youth Games Home – India Shines in MMA at the 3rd Asian Youth Games....
+LINK: <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="https://mma-sfi.org/india-shines-in-mma-at-the-3rd-asian-youth-games/">
+TEXT: Read More!
+TEXT: SHAPING THE FUTURE OF INDIAN MMA
+LINK: <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="#">
+TEXT: Join Us Now!
+TEXT: Our Trainers
+TEXT: Meet the Warriors
+TEXT: Behind Our Team.
+IMG: <img loading="lazy" decoding="async" width="600" height="750" src="https://mma-sfi.org/wp-content/uploads/2025/05/DFCK2GLc.jpg" class="attachment-full size-full wp-image-36" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2025/05/DFCK2GLc.jpg 600w, https://mma-sfi.org/wp-content/uploads/2025/05/DFCK2GLc-240x300.jpg 240w" sizes="(max-width: 600px) 100vw, 600px" />
+TEXT: Jason Mamoa
+TEXT: Trainer
+TEXT: Facebook
+TEXT: Twitter
+TEXT: Youtube
+IMG: <img loading="lazy" decoding="async" width="600" height="750" src="https://mma-sfi.org/wp-content/uploads/2025/05/BHLW92T.jpg" class="attachment-full size-full wp-image-37" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2025/05/BHLW92T.jpg 600w, https://mma-sfi.org/wp-content/uploads/2025/05/BHLW92T-240x300.jpg 240w" sizes="(max-width: 600px) 100vw, 600px" />
+TEXT: Lisa Rodriguez
+TEXT: Trainer
+TEXT: Facebook
+TEXT: Twitter
+TEXT: Youtube
+IMG: <img loading="lazy" decoding="async" width="600" height="750" src="https://mma-sfi.org/wp-content/uploads/2025/05/VEKHZDTa.jpg" class="attachment-full size-full wp-image-38" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2025/05/VEKHZDTa.jpg 600w, https://mma-sfi.org/wp-content/uploads/2025/05/VEKHZDTa-240x300.jpg 240w" sizes="(max-width: 600px) 100vw, 600px" />
+TEXT: John Thompson
+TEXT: Trainer
+TEXT: Facebook
+TEXT: Twitter
+TEXT: Youtube
+IMG: <img loading="lazy" decoding="async" width="600" height="750" src="https://mma-sfi.org/wp-content/uploads/2025/05/CVAQ42B.jpg" class="attachment-full size-full wp-image-39" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2025/05/CVAQ42B.jpg 600w, https://mma-sfi.org/wp-content/uploads/2025/05/CVAQ42B-240x300.jpg 240w" sizes="(max-width: 600px) 100vw, 600px" />
+TEXT: Irina Bella
+TEXT: Trainer
+TEXT: Facebook
+TEXT: Twitter
+TEXT: Youtube
+TEXT: Testimonials
+TEXT: Epic Journeys,
+TEXT: Real Results.
+TEXT: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+TEXT: As a parent, seeing my child thrive in this martial arts program brings immense joy. The instructors are not only skilled but also fantastic with kids. The positive impact on discipline and confidence is truly remarkable.
+IMG: <img loading="lazy" decoding="async" width="70" height="70" src="https://mma-sfi.org/wp-content/uploads/2025/05/AP72MDB.jpg" class="attachment-full size-full" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2025/05/AP72MDB.jpg 600w, https://mma-sfi.org/wp-content/uploads/2025/05/AP72MDB-300x300.jpg 300w, https://mma-sfi.org/wp-content/uploads/2025/05/AP72MDB-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" />
+TEXT: James L.
+TEXT: Fulfilled Fighter
+TEXT: Joining this martial arts school was a game-changer for me! The instructors are not only experts in their craft but incredible motivators. I've gained skills, confidence, and made lifelong friends. Highly recommended!
+IMG: <img loading="lazy" decoding="async" width="70" height="70" src="https://mma-sfi.org/wp-content/uploads/2025/05/EU4LUXZc.jpg" class="attachment-full size-full" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2025/05/EU4LUXZc.jpg 600w, https://mma-sfi.org/wp-content/uploads/2025/05/EU4LUXZc-300x300.jpg 300w, https://mma-sfi.org/wp-content/uploads/2025/05/EU4LUXZc-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" />
+TEXT: Sarah T.
+TEXT: Happy Student
+TEXT: I can't express how grateful I am for the transformative experience at this boxing school. The training is top-notch, and the supportive community makes every session a joy. I've found not just a gym but a second home.
+IMG: <img loading="lazy" decoding="async" width="70" height="70" src="https://mma-sfi.org/wp-content/uploads/2025/05/G532EE8.jpg" class="attachment-full size-full" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2025/05/G532EE8.jpg 600w, https://mma-sfi.org/wp-content/uploads/2025/05/G532EE8-300x300.jpg 300w, https://mma-sfi.org/wp-content/uploads/2025/05/G532EE8-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" />
+TEXT: Alex M
+TEXT: Satisfied Member
+IMG: <img loading="lazy" decoding="async" width="300" height="300" src="https://mma-sfi.org/wp-content/uploads/2025/05/Quotes.gif" class="attachment-full size-full wp-image-28" alt="" />
+TEXT: div data-elementor-type="wp-post"
+
+=================== FOOTER ===================
+TEXT: data-elementor-id="105" class="elementor elementor-105">
+IMG: <img width="500" height="500" src="https://mma-sfi.org/wp-content/uploads/2025/05/logo-black.jpeg" class="attachment-full size-full wp-image-1602" alt="" srcset="https://mma-sfi.org/wp-content/uploads/2025/05/logo-black.jpeg 500w, https://mma-sfi.org/wp-content/uploads/2025/05/logo-black-300x300.jpeg 300w, https://mma-sfi.org/wp-content/uploads/2025/05/logo-black-150x150.jpeg 150w" sizes="(max-width: 500px) 100vw, 500px" />
+TEXT: MMA-SFI (Mixed Martial Arts Sports Federation of India) is the national governing body for MMA in India.
+TEXT: Our Address
+TEXT: Ground Floor, Unit No. 001, Eco House, Off, Aarey Rd, Vishveshwar Nagar, Goregaon, Mumbai, Maharashtra 400063
+LINK: <a class="elementor-button elementor-button-link elementor-size-sm" href="mailto:info@mma-sfi.org">
+TEXT: info@mma-sfi.org
+TEXT: Inner Page
+LINK: <a href="https://mma-sfi.org/about-us/">
+TEXT: About Us
+LINK: <a href="https://mma-sfi.org/news/">
+TEXT: News
+LINK: <a href="#">
+TEXT: Events
+LINK: <a href="https://mma-sfi.org/members-state/">
+TEXT: Members
+LINK: <a href="https://mma-sfi.org/team/">
+TEXT: Team
+TEXT: News
+TEXT: MMA-SFI Hosts AMMA Officiating Seminar in Maharashtra-25 Indian Officials Certified
+LINK: <a href="/mma-sfi-hosts-amma-officiating-seminar-in-maharashtra-25-indian-officials-certified/" style="color:#fff;">
+TEXT: Read More
+TEXT: MMA-SFI National Championship 2025 Concludes Successfully at Thane, Maharashtra
+LINK: <a href="/mma-sfi-national-championship-2025-concludes-successfully-at-thane-maharashtra/" style="color:#fff;">
+TEXT: Read More
+TEXT: Copyright © 2026 Mixed Martial Arts Sports Federation of India. All Rights Reserved.
+TEXT: ( () => {
+					const lazyloadRunObserver = () => {
+						const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+						const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+							entries.forEach( ( entry ) => {
+								if ( entry.isIntersecting ) {
+									let lazyloadBackground = entry.target;
+									if( lazyloadBackground ) {
+										lazyloadBackground.classList.add( 'e-lazyloaded' );
+									}
+									lazyloadBackgroundObserver.unobserve( entry.target );
+								}
+							});
+						}, { rootMargin: '200px 0px 200px 0px' } );
+						lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+							lazyloadBackgroundObserver.observe( lazyloadBackground );
+						} );
+					};
+					const events = [
+						'DOMContentLoaded',
+						'elementor/lazyload/observe',
+					];
+					events.forEach( ( event ) => {
+						document.addEventListener( event, lazyloadRunObserver );
+					} );
+				} )();
+TEXT: jQuery.uiBackCompat = true;
+//# sourceURL=jquery-ui-core-js-before
+TEXT: var PremiumSettings = {"ajaxurl":"https://mma-sfi.org/wp-admin/admin-ajax.php","nonce":"11e7f6fe18"};
+//# sourceURL=elementor-frontend-js-extra
+TEXT: var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnX":"Share on X","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.4.0","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"hello-theme-header-footer":true,"e_mcp_revision_snapshots":true,"nested-elements":true,"import-export-customization":true},"urls":{"assets":"https:\/\/mma-sfi.org\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/mma-sfi.org\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/mma-sfi.org\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"f171607417","atomicFormsSendForm":"e25b05c66c"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":114,"title":"MMA-SFI","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+TEXT: var ekit_config = {"ajaxurl":"https://mma-sfi.org/wp-admin/admin-ajax.php","nonce":"f02df23f54","i18n":{"video_frame":"Video player","close":"Close","slider_prev":"Previous slide","slider_next":"Next slide","slider_first":"This is the first slide","slider_last":"This is the last slide","slider_bullet":"Go to slide {{index}}"}};
+//# sourceURL=ekit-core-js-extra
